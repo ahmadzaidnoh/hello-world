@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+My first repository.
+I am Ahmad Zaid Noh
